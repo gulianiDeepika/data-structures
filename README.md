@@ -1,4 +1,4 @@
 data-structures
 ===============
 
-php and java implementations of data structures
+php, java, javascript and C++ implementations of data structures and problems
